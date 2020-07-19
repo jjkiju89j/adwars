@@ -940,8 +940,6 @@
 127.0.0.1 wxsnsdy.tc.qq.com
 127.0.0.1 wxsnsdy.video.qq.com
 127.0.0.1 mazu.3g.qq.com
-127.0.0.1 oth.str.mdt.qq.com
-127.0.0.1 oth.eve.mdt.qq.com
 127.0.0.1 rpt.gdt.qq.com
 127.0.0.1 mtrace.qq.com
 127.0.0.1 ipv4.gdt.qq.com
